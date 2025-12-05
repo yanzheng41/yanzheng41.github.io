@@ -23,7 +23,7 @@ repository               : "yanzheng41/yanzheng41.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic informatio
-  avatar           : "/images/me.jpg"
+  avatar           : "images/me.jpg"
   name             : "Yan Zheng（郑琰）"
   pronouns         : "she/her"  
   bio              : "Research Assistant Professor at HKUST; specializing in atmospheric chemistry, with a particular focus on the sources and formation pathways of organic aerosols"
