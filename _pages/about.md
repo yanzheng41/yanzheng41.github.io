@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Yan Zheng (郑 琰)
-**Research Assistant Professor**  
-Division of Environment and Sustainability ([ENVR](https://envr.ust.hk/)), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/))
-
----
 
 Welcome! This is Yan, currently working as a Research Assistant Professor in the Division of Environment and Sustainability ([ENVR](https://envr.ust.hk/)), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). Prior to HKUST, I worked as postdoc at College of Environmental Sciences and Engineering ([CESE](https://cese.pku.edu.cn/)), Peking University from 2022 to 2025. 
 
