@@ -31,8 +31,10 @@ As of Nov 2025, I have published 27 peer-reviewed journal articles. Times Cited:
 
 Grants
 ======
-* National Science Fund of China (NSFC), Young Scholars Program (Leading, RMB 300,000)<br>
+* National Science Fund of China (NSFC), Young Scientists Fund, 2026-2028 (PI, RMB 300,000)<br>
   Title: Experimental study on how extreme heat weather condition affects the aqueous and heterogeneous formation of secondary organic aerosol
+* NSFC, General Program, 2019-2022 (Participant)<br>
+  Title: Studying sources and formation mechanisms of nitrophenol in Beijing using online mass spectrometry
 
 Service
 ======
