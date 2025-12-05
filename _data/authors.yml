@@ -2,7 +2,7 @@
 
 yanzheng41:
   name: "Yan Zheng（郑琰）"
-  avatar: "/assets/images/<me.jpg>"   # 例如 me.jpg
+  avatar: "/assets/images/me.jpg"   # 例如 me.jpg
   bio: >
     Yan Zheng is a Research Assistant Professor working in the field of atmospheric chemistry,
     with a focus on volatile organic compounds (VOCs), oxidation mechanisms, and the formation
@@ -10,17 +10,17 @@ yanzheng41:
     advanced mass spectrometry, chamber/lab simulations to understand 
     how chemical processes shape urban and regional air quality under evolving climate conditions.
 
-  email: "<yanz@ust.hk>"
-  location: "<Hong Kong, China>"   # 例如 Hong Kong, China
+  email: "yanz@ust.hk"
+  location: "Hong Kong, China"   # 例如 Hong Kong, China
 
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "<https://scholar.google.com/citations?user=4wLt0c8AAAAJ&hl=en>"
+      url: "https://scholar.google.com/citations?user=4wLt0c8AAAAJ&hl=en"
 
     - label: "ORCID"
       icon: "fas fa-id-badge"
-      url: "<https://orcid.org/my-orcid?orcid=0000-0002-0375-1593>"
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-0375-1593"
 
     # 如果你之后想加 ResearchGate/LinkedIn，只需照抄以下结构：
     # - label: "ResearchGate"
@@ -29,4 +29,4 @@ yanzheng41:
 
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:<yanz@ust.hk>"
+      url: "mailto:yanz@ust.hk"
