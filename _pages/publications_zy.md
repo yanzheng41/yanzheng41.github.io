@@ -5,7 +5,7 @@ permalink: /publications_zy/
 author_profile: true
 ---
 
-# Under-review Articles (Corresponding-author*)
+# Under-review Articles (Corresponding<sup>\*</sup>, Co-First<sup>\#</sup>)
 
 <br>
 <br>
