@@ -10,7 +10,7 @@
 main:
   - title: "Research"
     #url: /publications/
-    url: /research_zy.html
+    url: /research_zy/
  
   - title: "Publications"
     #url: /publications/
@@ -22,7 +22,7 @@ main:
 
   - title: "Teaching"
     #url: /teaching/   
-    url: /teaching_zy.html  
+    url: /teaching_zy/ 
     
   #- title: "Portfolio"
   #  url: /portfolio/
