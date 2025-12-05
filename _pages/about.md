@@ -1,8 +1,10 @@
 ---
-layout: about
-title: About Me
-permalink: /about/
-nav_order: 1
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # Yan Zheng (郑 琰)
