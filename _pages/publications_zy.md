@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Publications"
+permalink: /publications_zy/
 author_profile: true
 ---
 
