@@ -27,7 +27,7 @@ My research focuses on advancing the characterization of atmospheric chemical co
 
 Publications
 ======
-As of Nov 2025, I have published 27 peer-reviewed journal articles. Times Cited: 843 and H-index: 16 (web of science); Times Cited: 1085 and H-index: 18 (google scholar).
+As of Apr 2026, I have published 30+ peer-reviewed journal articles. Times Cited: 940 and H-index: 17 (web of science); Times Cited: 1164 and H-index: 19 (google scholar).
 
 Grants
 ======
