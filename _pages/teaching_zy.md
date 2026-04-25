@@ -6,16 +6,15 @@ author_profile: true
 ---
 ## Courses Teaching
 ---
-**Course:** <span style="color: #9CCFFF;"> EVSM 5280 - Air Pollution: From Science to Management <br></span> 
+**Course**: <span style="color: #89c6ff;"> EVSM 5280 - Air Pollution: From Science to Management</span> <br> 
 **Institution:** Devision of Environment and Sustainability (ENVR), HKUST <br>
 **Level & Class size:** ~80 master students     **Year:** 2026 <br>
-**Role:** <span style="color: #9CCFFF;">Guest lecturer</span> <br>
+**Role:** <span style="color: #89c6ff;">Guest lecturer</span> <br>
 *Lecture 9: Sources and Formation of Aerosols, Acid rain* (3h) <br>
 *Lecuture 11: Air pollution control technology & Introduction to indoor air quality* (3h) <br>
-
 ## Instrument Training
 ---
-I provide <span style="color: #9CCFFF;">training</span>  for students and junior researchers on <span style="color: #9CCFFF;">atmospheric measurement techniques and data analysis</span>. The training covers instrument principles, operation, calibration, quality control, and data interpretation, with a focus on online aerosol and trace-gas measurements. <br>
+I provide <span style="color: #89c6ff;">training</span>  for students and junior researchers on <span style="color: #9CCFFF;">atmospheric measurement techniques and data analysis</span>. The training covers instrument principles, operation, calibration, quality control, and data interpretation, with a focus on online aerosol and trace-gas measurements. <br>
 
 Training topics include: <br>
 - *Principles and applications of aerosol mass spectrometry and chemical ionization mass spectrometry, e.g., ACSM, AMS, FIGAERO-CIMS* <br>
