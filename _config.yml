@@ -28,8 +28,8 @@ author:
   pronouns         : "she/her"  
   bio              : "Research Assistant Professor at HKUST; specializing in atmospheric chemistry, with a particular focus on the sources and formation pathways of organic aerosols"
   location         : "Hong Kong, China"
-  employer         : "HKUST"
-  uri              : "https://researchportal.hkust.edu.hk/en/persons/yan-zheng/"
+  employer         : "HKUST<https://researchportal.hkust.edu.hk/en/persons/yan-zheng/>"
+  uri              : # "https://researchportal.hkust.edu.hk/en/persons/yan-zheng/"
   email            : "yanz@ust.hk" 
 
   # Academic websites
