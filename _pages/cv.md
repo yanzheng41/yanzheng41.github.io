@@ -27,7 +27,7 @@ My research focuses on advancing the characterization of atmospheric chemical co
 
 Publications
 ======
-As of Apr 2026, I have published 30+ peer-reviewed journal articles. Times Cited: 940 and H-index: 17 (web of science); Times Cited: 1164 and H-index: 19 (google scholar).
+As of May 2026, I have published 30+ peer-reviewed journal articles. Times Cited: 963 and H-index: 17 (web of science); Times Cited: 1196 and H-index: 19 (google scholar).
 
 Grants
 ======
@@ -39,3 +39,15 @@ Grants
 Service
 ======
 * **Referee**: reviewer for journals including Environmental science & technology letters (ESTL), Atmospheric Environment (AE), and Atmospheric Chemistry and Physics (ACP)
+
+Conference Talks
+======
+* The iCACGP-IGAC Conference, Crete, Greece, Sep 2026, Process-Level Quantification of Secondary Organic Aerosol through Integrated AMS and CIMS Observations <span style="color: #89c6ff;">(coming soon)</span> 
+* International Aerosol Conference, Xi'an, China, Aug 2026, Process-Level Quantification of Secondary Organic Aerosol through Integrated AMS and CIMS Observations <span style="color: #89c6ff;">(coming soon)</span> 
+* The iCACGP-IGAC Conference, Kuala Lumpur, Malaysia, Sep 2024, Significant Enhancement of Secondary Organic Aerosol during Heatwaves in Northern China
+* AOGS Annual Meeting, Singapore, Aug 2023, Molecular Characteristics and Formation Pathways of Particulate Organic Nitrates During Winter and Summer in Urban Beijing
+* AGU Fall Meeting, San Francisco, US, Dec 2019, Winter Haze in Northern China Driven by Secondary Inorganic and Organic Formation in Liquid Aerosols
+* Asian Aerosol Conference, Hong Kong, China, May 2019, Oxidative Aging and Secondary Organic Aerosol Formation of Fleet Vehicle Emissions
+* International Aerosol Conference, St Louis, US, Sep 2018, New Insights into Sources of Organic Aerosol in PM2.5 in a Polluted Urban Environment
+
+
