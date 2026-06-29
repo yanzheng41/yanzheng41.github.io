@@ -7,7 +7,7 @@ author_profile: true
 
 # Under-review Articles (Corresponding<sup>\*</sup>, Co-First<sup>\#</sup>)
 
-<br>
+(1) Miao, R., Xu, R., Huang, S., Xiao, S., Wang, H., **Zheng, Y.**, Liu, S., Li, J., Geng, G., Shrivastava, M., Dao, X., Granier, C., Brasseur, G., Karydis, V. A., Tsimpidi, A. P., Jiang, J., Daellenbach, K. R., Haddad, I. E., Prévôt, A. S. H., and Chen, Q.<sup>\*</sup>: Global budgets of atmospheric primary and secondary organic aerosols constrained by full-volatility-range organic emissions, *EGUsphere* (2026) [DOI](https://doi.org/10.5194/egusphere-2026-3160)<br>
 <br>
 <br>
 <br>
@@ -18,7 +18,7 @@ author_profile: true
 ## Year 2025-
 (30) Jin, Y., Luo, H., Tang, S., Xue, S., Nie, C., Peng, X., **Zheng, Y.**, Xu, W., Zhang, G., Pan, X., Sun, Y., Chen, Q., Liu, L., and Zhao, D.<sup>\*</sup>: Molecular composition and processing of aqueous secondary organic aerosol in clouds at a mountain site in southeastern China, *Atmos. Chem. Phys.* (2026) [DOI](https://doi.org/10.5194/acp-26-2813-2026)<br>
 (29) Man, R., Zhu, Y., Wu, Z.<sup>\*</sup>, Alpert, P. A., Wang, B., Dou, J., Chen, J., Zheng, Y., Ge, Y., Chen, Q., Chen, S., Kong, X., Ammann, M., and Hu, M.: Direct observation of core-shell structure and water uptake of individual submicron urban aerosol particles, *Atmos. Chem. Phys.* (2026) [DOI](https://doi.org/10.5194/acp-26-349-2026)<br>
-(28) Cheng, Z., Qiu, X.<sup>\*</sup>, Shi, X., Li, A., Zhong, P., Tian, Y., Ge, Y., Koenig, T. K., **Zheng, Y.**, Cheng, X., Sheng, M., Chen, S., Hu, M., Ye, C., Liu, Y., Cheung, R. K. Y., Modini, R. L., El-Haddad, I., Prevot, A. S. H., Chen, Q., Shang, J., and Zhu, T.: Bihourly monitoring reveals the significance of photochemical removal of PAHs in the urban atmosphere, *Environ. Sci. Technol.* (2025). [DOI](https://doi.org/10.1021/acs.est.5c09208)<br>
+(28) Cheng, Z., Qiu, X.<sup>\*</sup>, Shi, X., Li, A., Zhong, P., Tian, Y., Ge, Y., Koenig, T. K., **Zheng, Y.**, Cheng, X., Sheng, M., Chen, S., Hu, M., Ye, C., Liu, Y., Cheung, R. K. Y., Modini, R. L., El-Haddad, I., Prevot, A. S. H., Chen, Q., Shang, J., and Zhu, T.: Bihourly monitoring reveals the significance of photochemical removal of PAHs in the urban atmosphere, *Environ. Sci. Technol.*, 59, 25288-25295, 10.1021/acs.est.5c09208, 2025. [DOI](https://doi.org/10.1021/acs.est.5c09208)<br>
 (27) Travis, K. R.<sup>\*</sup>; Nault, B. A.; Crawford, J. H.; Kim, H.; Chen, Q.; **Zheng, Y.**; Liu, T.; Jimenez, J. L.; Campuzano-Jost, P.; Wennberg, P. O.; Crounse, J. D.; and Huey, L. G.: Year-round analysis of multiphase sulfate production in aerosol particles in East Asia, *Environ Sci Technol Air*. (2025) [DOI](https://doi.org/10.1021/acsestair.5c00136)<br>
 (26) Ma, Y.; Sheng, M.; Shang, J.<sup>\*</sup>; Tang, R.; Cao, J.; Liu, Y.; Liang, C.; Kuang, Y.; **Zheng, Y.**; Cheng, Z.; Cheung, R. K. Y.; Modini, R. L.; El-Haddad, I.; Prévôt, A. S. H.; Qiu, X.; Chen, Q.; and Zhu, T.: Dithiothreitol oxidative potential (OP) of PM2.5 in Beijing: Quantitative contribution of metals to OP and its prediction based on machine learning models, *J Hazard Mater* (2025) [DOI](https://doi.org/10.1016/j.jhazmat.2025.139471)<br>
 
