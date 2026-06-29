@@ -7,12 +7,11 @@ author_profile: true
 
 # Under-review Articles (Corresponding<sup>\*</sup>, Co-First<sup>\#</sup>)
 
-(1) Miao, R., Xu, R., Huang, S., Xiao, S., Wang, H., **Zheng, Y.**, Liu, S., Li, J., Geng, G., Shrivastava, M., Dao, X., Granier, C., Brasseur, G., Karydis, V. A., Tsimpidi, A. P., Jiang, J., Daellenbach, K. R., Haddad, I. E., Prévôt, A. S. H., and Chen, Q.<sup>\*</sup>: Global budgets of atmospheric primary and secondary organic aerosols constrained by full-volatility-range organic emissions, *EGUsphere* (2026) [DOI](https://doi.org/10.5194/egusphere-2026-3160)<br>
+(1) Miao, R., Xu, R., Huang, S., Xiao, S., Wang, H., **Zheng, Y.**, Liu, S., Li, J., Geng, G., Shrivastava, M., Dao, X., Granier, C., Brasseur, G., Karydis, V. A., Tsimpidi, A. P., Jiang, J., Daellenbach, K. R., Haddad, I. E., Prévôt, A. S. H., and Chen, Q.<sup>\*</sup>: Global budgets of atmospheric primary and secondary organic aerosols constrained by full-volatility-range organic emissions, *Atmos. Chem. Phys.* (2026, under discussion) [DOI](https://doi.org/10.5194/egusphere-2026-3160)<br>
 <br>
 <br>
 <br>
 
----
 # Peer-reviewed Articles (Corresponding<sup>\*</sup>, Co-First<sup>\#</sup>)
 
 ## Year 2025-
