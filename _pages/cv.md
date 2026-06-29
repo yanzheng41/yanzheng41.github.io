@@ -31,7 +31,7 @@ As of Jun 2026, I have published 30+ peer-reviewed journal articles. Times Cited
 
 Grants
 ======
-* Research Grants Council (RGC) of Hong Kong, General Research Fund, 2026-2029 (PI)<br>
+* Research Grants Council (RGC) of Hong Kong, General Research Fund, 2027-2029 (PI)<br>
   Title: Sources and formation mechanisms of organic aerosol in coastal environments: the roles of multiphase chemistry and marine-continental interactions
 * National Science Fund of China (NSFC), Young Scientists Fund, 2026-2028 (PI)<br>
   Title: Experimental study on how extreme heat weather condition affects the aqueous and heterogeneous formation of secondary organic aerosol
