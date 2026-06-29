@@ -27,11 +27,13 @@ My research focuses on advancing the characterization of atmospheric chemical co
 
 Publications
 ======
-As of May 2026, I have published 30+ peer-reviewed journal articles. Times Cited: 963 and H-index: 17 (web of science); Times Cited: 1196 and H-index: 19 (google scholar).
+As of Jun 2026, I have published 30+ peer-reviewed journal articles. Times Cited: 991 and H-index: 18 (web of science); Times Cited: 1230 and H-index: 19 (google scholar).
 
 Grants
 ======
-* National Science Fund of China (NSFC), Young Scientists Fund, 2026-2028 (PI, RMB 300,000)<br>
+* Research Grants Council (RGC) of Hong Kong, General Research Fund, 2026-2029 (PI)<br>
+  Title: Sources and formation mechanisms of organic aerosol in coastal environments: the roles of multiphase chemistry and marine-continental interactions
+* National Science Fund of China (NSFC), Young Scientists Fund, 2026-2028 (PI)<br>
   Title: Experimental study on how extreme heat weather condition affects the aqueous and heterogeneous formation of secondary organic aerosol
 * NSFC, General Program, 2019-2022 (Participant)<br>
   Title: Studying sources and formation mechanisms of nitrophenol in Beijing using online mass spectrometry
