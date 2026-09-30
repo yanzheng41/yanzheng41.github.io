@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching_zy/
 author_profile: true
 ---
+
 ## Courses Teaching
 ---
 **Course**: <span style="color: #89c6ff;"> EVSM 5280 - Air Pollution: From Science to Management</span> <br> 
@@ -12,6 +13,12 @@ author_profile: true
 **Role:** <span style="color: #89c6ff;">Guest Lecturer</span> <br>
 *Lecture 9: Sources and Formation of Aerosols, Acid rain* (3h) <br>
 *Lecture 11: Air pollution control technology & Introduction to indoor air quality* (3h) <br>
+
+**Course**: <span style="color: #89c6ff;"> ENVR/CIVL 4470 - Air Quality Control and Management</span> <br> 
+**Institution:** ENVR, Department of Civil and Environmental Engineering (CIVL), HKUST <br>
+**Level & Class size:** ~30 undergraduate and postgraduate students     **Year:** 2026 <br>
+**Role:** <span style="color: #89c6ff;">Guest Lecturer</span> <br>
+*Lecture 5: Air Pollution Emission* (3h) <br>
 
 ## Instrument Training
 ---
