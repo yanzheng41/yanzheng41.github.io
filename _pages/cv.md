@@ -27,7 +27,7 @@ My research focuses on advancing the characterization of atmospheric chemical co
 
 Publications
 ======
-As of Jun 2026, I have published 30+ peer-reviewed journal articles. Times Cited: 991 and H-index: 18 (web of science); Times Cited: 1230 and H-index: 19 (google scholar).
+As of Sep 2026, I have published 30+ peer-reviewed journal articles. Times Cited: 1067 and H-index: 19 (web of science); Times Cited: 1310 and H-index: 20 (google scholar).
 
 Grants
 ======
@@ -44,8 +44,8 @@ Service
 
 Conference Talks
 ======
-* The iCACGP-IGAC Conference, Crete, Greece, Sep 2026, Process-Level Quantification of Secondary Organic Aerosol through Integrated AMS and CIMS Observations <span style="color: #89c6ff;">(coming soon)</span> 
-* International Aerosol Conference, Xi'an, China, Aug 2026, Process-Level Quantification of Secondary Organic Aerosol through Integrated AMS and CIMS Observations <span style="color: #89c6ff;">(coming soon)</span> 
+* The iCACGP-IGAC Conference, Crete, Greece, Sep 2026, Process-Level Quantification of Secondary Organic Aerosol through Integrated AMS and CIMS Observations
+* International Aerosol Conference, Xi'an, China, Aug 2026, Process-Level Quantification of Secondary Organic Aerosol through Integrated AMS and CIMS Observations 
 * The iCACGP-IGAC Conference, Kuala Lumpur, Malaysia, Sep 2024, Significant Enhancement of Secondary Organic Aerosol during Heatwaves in Northern China
 * AOGS Annual Meeting, Singapore, Aug 2023, Molecular Characteristics and Formation Pathways of Particulate Organic Nitrates During Winter and Summer in Urban Beijing
 * AGU Fall Meeting, San Francisco, US, Dec 2019, Winter Haze in Northern China Driven by Secondary Inorganic and Organic Formation in Liquid Aerosols
